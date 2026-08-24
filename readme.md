@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Full Stack Software Developer with over 6 years of experience in backend and frontend development, contributing to the execution of high-impact multidisciplinary projects.</p>
+<p align="left">Full Stack Software Developer with over 7 years of experience in backend and frontend development, contributing to the execution of high-impact multidisciplinary projects.</p>
 
 ###
 
